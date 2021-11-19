@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RecruitmentTasks/bin/Debug/netcoreapp3.1
+/RecruitmentTasks/.vs/RecruitmentTasks
+/RecruitmentTasks/obj
+/RecruitmentTasks.UnitTests/bin/Debug/netcoreapp3.1
+/RecruitmentTasks.UnitTests/obj
